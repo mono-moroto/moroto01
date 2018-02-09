@@ -1,0 +1,6 @@
+@media screen and (min-width: 768px) {
+  /* line 2, app/assets/stylesheets/site/partials/brand/style_override.sass */
+  .mod-information-brand .text.is-no-img {
+    margin-bottom: 84px;
+  }
+}

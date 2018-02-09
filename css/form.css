@@ -1,0 +1,4 @@
+/* line 2, app/assets/stylesheets/site/partials/form.sass */
+.submit-button, .search-submit-button {
+  display: none;
+}

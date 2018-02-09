@@ -1,0 +1,14 @@
+/* line 1, app/assets/stylesheets/site/partials/guide/style_override.sass */
+.wrapper .breadcrumb-sp {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+@media screen and (min-width: 768px) {
+  /* line 6, app/assets/stylesheets/site/partials/guide/style_override.sass */
+  .headline {
+    margin-top: 0px;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAiYXBwL2Fzc2V0cy9zdHlsZXNoZWV0cy9zaXRlL3BhcnRpYWxzL2d1aWRlL3N0eWxlX292ZXJyaWRlLmNzcyIsCgkic291cmNlcyI6IFsKCQkiYXBwL2Fzc2V0cy9zdHlsZXNoZWV0cy9zaXRlL3BhcnRpYWxzL2d1aWRlL3N0eWxlX292ZXJyaWRlLnNhc3MiCgldLAoJInNvdXJjZXNDb250ZW50IjogWwoJCSIud3JhcHBlciAuYnJlYWRjcnVtYi1zcCB7XG4gIG1hcmdpbi1sZWZ0OiAtMjBweDtcbiAgbWFyZ2luLXJpZ2h0OiAtMjBweDsgfVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA3NjhweCkge1xuICAuaGVhZGxpbmUge1xuICAgIG1hcmdpbi10b3A6IDBweDsgfSB9XG4iCgldLAoJIm5hbWVzIjogW10sCgkibWFwcGluZ3MiOiAiO0FBQUEsQUFBUyxRQUFELENBQUMsY0FBYyxDQUFDO0VBQ3RCLFdBQVcsRUFBRSxLQUFLO0VBQ2xCLFlBQVksRUFBRSxLQUFLO0NBQUk7O0FBRXpCLE1BQU0sQ0FBQyxNQUFNLE1BQU0sU0FBUyxFQUFFLEtBQUs7O0VBQ2pDLEFBQUEsU0FBUyxDQUFDO0lBQ1IsVUFBVSxFQUFFLEdBQUc7R0FBSSIKfQ== */
